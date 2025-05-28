@@ -2,7 +2,7 @@
 
 This project is a secure RESTful API built with [Actix-web](https://actix.rs/), MongoDB, JWT authentication, and optional OAuth2 support. It demonstrates a complete authentication system with password hashing, token issuing and refreshing, route protection, and MongoDB integration.
 
-[Read more article]()
+[Read more article](https://www.djamware.com/post/6836f7bc3069a919de614b05/rest-api-security-with-rust-mongodb-and-oauth2)
 
 ## Features
 
